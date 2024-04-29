@@ -6,7 +6,7 @@ ma bute -- phpMyAdmin SQL Dump
 -- Généré le : sam. 27 avr. 2024 à 01:37
 -- Version du serveur : 8.0.36
 -- Version de PHP : 8.2.8
-
+test test
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
